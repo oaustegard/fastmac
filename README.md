@@ -16,7 +16,7 @@ First, [click here](https://github.com/fastai/fastmac/generate) to create a copy
 
 ## Run the `mac` workflow
 
-Next, <a href="../../actions?query=workflow%3Amac">click here</a> to go to the GitHub actions screen for the `mac` workflow, and then click the "Run workflow" dropdown on the right, and then click the green "Run workflow" button that appears.
+Next, <a href="../../actions?query=workflows%3Amac">click here</a> to go to the GitHub actions screen for the `mac` workflow, and then click the "Run workflow" dropdown on the right, and then click the green "Run workflow" button that appears.
 
 <img width="365" src="https://user-images.githubusercontent.com/346999/92965396-91320680-f42a-11ea-9bc3-90682e740343.png" />
 
